@@ -18628,10 +18628,10 @@
                 c = o.attr("data-wf-status"),
                 p = o.attr("data-wf-domain") || "";
             /\.webflow\.io$/i.test(p) && u.hostname !== p && (c = !0),
-            c && !s && (t = t || (n = e('<a class="w-webflow-badge"></a>').attr("href", "https://webflow.com?utm_campaign=brandjs"), r = e("<img>").attr("src", "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon.f67cd735e3.svg").attr("alt", "").css({
+            c && !s && (t = t || (n = e('<a class="w-webflow-badge"></a>').attr("", ""), r = e("").attr("", "").attr("", "").css({
                 marginRight: "8px",
                 width: "16px"
-            }), a = e("<img>").attr("src", "https://d1otoma47x30pg.cloudfront.net/img/webflow-badge-text.6faa6a38cd.svg").attr("alt", "Made in Webflow"), n.append(r, a), n[0]), d(), setTimeout(d, 500), e(i).off(l, f).on(l, f))
+            }), a = e("").attr("", "").attr("", ""), n.append(r, a), n[0]), d(), setTimeout(d, 500), e(i).off(l, f).on(l, f))
         }, n
     })
 }, function(e, t, n) {
