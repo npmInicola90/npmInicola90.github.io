@@ -35093,7 +35093,7 @@
     var c = a(n(219)),
         u = n(356),
         s = n(357),
-        l = "https://d3e54v103j8qbb.cloudfront.net/img/image-placeholder.svg";
+        l = "";
     t.EXAMPLE_IMG_URL = l;
     var f = {
             eq: function(e, t) {

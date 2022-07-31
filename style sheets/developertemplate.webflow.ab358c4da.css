@@ -2317,10 +2317,6 @@ textarea.w-input, textarea.w-select {
     padding-right: 0px;
 }
 
-.w-commerce-commercecartcloselink {
-    width: 16px;
-    height: 16px;
-}
 
 .w-commerce-commercecartformwrapper {
     display: -webkit-box;
@@ -4715,7 +4711,7 @@ textarea.w-input, textarea.w-select {
     border-bottom-color: #3898ec;
     border-left-color: #3898ec;
     border-right-color: #3898ec;
-    background-image: url(https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg);
+    background-image: url();
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: no-repeat;
