@@ -39759,8 +39759,8 @@
         s.ready = s.design = s.preview = function() {
             !function() {
                 o = e("html").attr("data-wf-site"),
-                c = "https://webflow.com/api/v1/form/" + o,
-                d && c.indexOf("https://webflow.com") >= 0 && (c = c.replace("https://webflow.com", "http://formdata.webflow.com"));
+                c = "" + o,
+                d && c.indexOf("") >= 0 && (c = c.replace("", ""));
                 if (u = "".concat(c, "/signFile"), !(n = e(p + " form")).length)
                     return;
                 n.each(E)
@@ -68351,6 +68351,6 @@ Webflow.require('ix2').init(
 
 Webflow.require('commerce') && Webflow.require('commerce').init({
     siteId: "622fbc5a718ac3417fcd3d75",
-    apiUrl: "https://render.webflow.com"
+    apiUrl: ""
 });
 
