@@ -13876,27 +13876,3 @@ figcaption {
     font-display: swap;
 }
 
-@font-face {
-    font-family: 'Spacegrotesk';
-    src: url('https://assets.website-files.com/622fbc5a718ac3417fcd3d75/622fc8f87fd5f314f8fc8126_SpaceGrotesk-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Spacegrotesk';
-    src: url('https://assets.website-files.com/622fbc5a718ac3417fcd3d75/622fc8f89ce5a8375d74de96_SpaceGrotesk-Bold.woff') format('woff');
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Spacegrotesk';
-    src: url('https://assets.website-files.com/622fbc5a718ac3417fcd3d75/622fc8f87653c0225d638848_SpaceGrotesk-Regular.woff') format('woff');
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-
